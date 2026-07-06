@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Mis articulos en audio</title>
+    <link>https://robertoroseteg-cloud.github.io/reb-ecuador</link>
+    <description>Articulos de mis feeds RSS convertidos a audio automaticamente.</description>
+    <language>es</language>
+    <itunes:author>Pipeline automatico</itunes:author>
+
+    <item>
+      <title>¿Por qué quieren «interpretar» la prohibición constitucional del arbitraje internacional?</title>
+      <description>Ecuador – Rebelion — https://rebelion.org/por-que-quieren-interpretar-la-prohibicion-constitucional-del-arbitraje-internacional/</description>
+      <link>https://rebelion.org/por-que-quieren-interpretar-la-prohibicion-constitucional-del-arbitraje-internacional/</link>
+      <guid isPermaLink="false">5b5c09c34afc5f2e</guid>
+      <pubDate>Mon, 06 Jul 2026 02:58:47 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/reb-ecuador/episodios/5b5c09c34afc5f2e.mp3" length="2282112" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Ultraderecha, violencias y reacción patriarcal en el Ecuador de Noboa</title>
+      <description>Ecuador – Rebelion — https://rebelion.org/ultraderecha-violencias-y-reaccion-patriarcal-en-el-ecuador-de-noboa/</description>
+      <link>https://rebelion.org/ultraderecha-violencias-y-reaccion-patriarcal-en-el-ecuador-de-noboa/</link>
+      <guid isPermaLink="false">87b45e3f79e798db</guid>
+      <pubDate>Mon, 06 Jul 2026 02:58:21 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/reb-ecuador/episodios/87b45e3f79e798db.mp3" length="10755216" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Ecuador ingresa en categoría de alto riesgo, según el Índice Global de Tortura (2026)</title>
+      <description>Ecuador – Rebelion — https://rebelion.org/ecuador-ingresa-en-categoria-de-alto-riesgo-segun-el-indice-global-de-tortura-2026/</description>
+      <link>https://rebelion.org/ecuador-ingresa-en-categoria-de-alto-riesgo-segun-el-indice-global-de-tortura-2026/</link>
+      <guid isPermaLink="false">670946e6c2cedecc</guid>
+      <pubDate>Mon, 06 Jul 2026 02:57:07 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/reb-ecuador/episodios/670946e6c2cedecc.mp3" length="768096" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Explosiones en Quito y la fragilidad del orden</title>
+      <description>Ecuador – Rebelion — https://rebelion.org/explosiones-en-quito-y-la-fragilidad-del-orden/</description>
+      <link>https://rebelion.org/explosiones-en-quito-y-la-fragilidad-del-orden/</link>
+      <guid isPermaLink="false">54c2433d0edf90e4</guid>
+      <pubDate>Mon, 06 Jul 2026 02:57:01 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/reb-ecuador/episodios/54c2433d0edf90e4.mp3" length="1236960" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Ministerio de Defensa debe entregar información sobre detenidos desaparecidos</title>
+      <description>Ecuador – Rebelion — https://rebelion.org/ministerio-de-defensa-debe-entregar-informacion-sobre-detenidos-desaparecidos/</description>
+      <link>https://rebelion.org/ministerio-de-defensa-debe-entregar-informacion-sobre-detenidos-desaparecidos/</link>
+      <guid isPermaLink="false">f44c6dcfc5d55856</guid>
+      <pubDate>Mon, 06 Jul 2026 02:56:52 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/reb-ecuador/episodios/f44c6dcfc5d55856.mp3" length="1204704" type="audio/mpeg"/>
+    </item>
+  </channel>
+</rss>
