@@ -1,5 +1,14 @@
 [
   {
+    "id": "7506bc06d2d3b773",
+    "titulo": "Tiempos nuevos y nuevas oportunidades",
+    "fuente": "Rebelión · Ecuador",
+    "enlace": "https://rebelion.org/tiempos-nuevos-y-nuevas-oportunidades/",
+    "archivo": "7506bc06d2d3b773.mp3",
+    "bytes": 2450160,
+    "timestamp": 1795119413
+  },
+  {
     "id": "612aced385a062e2",
     "titulo": "Pescadores ecuatorianos demandarán a EE.UU. tras ser atacados en el Pacífico",
     "fuente": "Rebelión · Ecuador",
@@ -349,14 +358,5 @@
     "archivo": "87b45e3f79e798db.mp3",
     "bytes": 10755216,
     "timestamp": 1783306701
-  },
-  {
-    "id": "670946e6c2cedecc",
-    "titulo": "Ecuador ingresa en categoría de alto riesgo, según el Índice Global de Tortura (2026)",
-    "fuente": "Ecuador – Rebelion",
-    "enlace": "https://rebelion.org/ecuador-ingresa-en-categoria-de-alto-riesgo-segun-el-indice-global-de-tortura-2026/",
-    "archivo": "670946e6c2cedecc.mp3",
-    "bytes": 768096,
-    "timestamp": 1783306627
   }
 ]

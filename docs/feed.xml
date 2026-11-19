@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
 
     <item>
+      <title>Tiempos nuevos y nuevas oportunidades</title>
+      <description>Rebelión · Ecuador — https://rebelion.org/tiempos-nuevos-y-nuevas-oportunidades/</description>
+      <link>https://rebelion.org/tiempos-nuevos-y-nuevas-oportunidades/</link>
+      <guid isPermaLink="false">7506bc06d2d3b773</guid>
+      <pubDate>Thu, 19 Nov 2026 20:16:53 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/reb-ecuador/episodios/7506bc06d2d3b773.mp3" length="2450160" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Pescadores ecuatorianos demandarán a EE.UU. tras ser atacados en el Pacífico</title>
       <description>Rebelión · Ecuador — https://rebelion.org/pescadores-ecuatorianos-demandaran-a-ee-uu-tras-ser-atacados-en-el-pacifico/</description>
       <link>https://rebelion.org/pescadores-ecuatorianos-demandaran-a-ee-uu-tras-ser-atacados-en-el-pacifico/</link>
@@ -318,14 +326,6 @@
       <guid isPermaLink="false">87b45e3f79e798db</guid>
       <pubDate>Mon, 06 Jul 2026 02:58:21 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/reb-ecuador/episodios/87b45e3f79e798db.mp3" length="10755216" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Ecuador ingresa en categoría de alto riesgo, según el Índice Global de Tortura (2026)</title>
-      <description>Ecuador – Rebelion — https://rebelion.org/ecuador-ingresa-en-categoria-de-alto-riesgo-segun-el-indice-global-de-tortura-2026/</description>
-      <link>https://rebelion.org/ecuador-ingresa-en-categoria-de-alto-riesgo-segun-el-indice-global-de-tortura-2026/</link>
-      <guid isPermaLink="false">670946e6c2cedecc</guid>
-      <pubDate>Mon, 06 Jul 2026 02:57:07 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/reb-ecuador/episodios/670946e6c2cedecc.mp3" length="768096" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
