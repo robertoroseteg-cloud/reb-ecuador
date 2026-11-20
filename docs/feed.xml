@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
 
     <item>
+      <title>Elecciones locales contra la sombra del autoritarismo</title>
+      <description>Rebelión · Ecuador — https://rebelion.org/elecciones-locales-contra-la-sombra-del-autoritarismo/</description>
+      <link>https://rebelion.org/elecciones-locales-contra-la-sombra-del-autoritarismo/</link>
+      <guid isPermaLink="false">c385ac160f4fbb7f</guid>
+      <pubDate>Fri, 20 Nov 2026 19:49:20 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/reb-ecuador/episodios/c385ac160f4fbb7f.mp3" length="2132496" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Tiempos nuevos y nuevas oportunidades</title>
       <description>Rebelión · Ecuador — https://rebelion.org/tiempos-nuevos-y-nuevas-oportunidades/</description>
       <link>https://rebelion.org/tiempos-nuevos-y-nuevas-oportunidades/</link>
@@ -318,14 +326,6 @@
       <guid isPermaLink="false">5b5c09c34afc5f2e</guid>
       <pubDate>Mon, 06 Jul 2026 02:58:47 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/reb-ecuador/episodios/5b5c09c34afc5f2e.mp3" length="2282112" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Ultraderecha, violencias y reacción patriarcal en el Ecuador de Noboa</title>
-      <description>Ecuador – Rebelion — https://rebelion.org/ultraderecha-violencias-y-reaccion-patriarcal-en-el-ecuador-de-noboa/</description>
-      <link>https://rebelion.org/ultraderecha-violencias-y-reaccion-patriarcal-en-el-ecuador-de-noboa/</link>
-      <guid isPermaLink="false">87b45e3f79e798db</guid>
-      <pubDate>Mon, 06 Jul 2026 02:58:21 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/reb-ecuador/episodios/87b45e3f79e798db.mp3" length="10755216" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
