@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
 
     <item>
+      <title>Desterrar la dictadura</title>
+      <description>Rebelión · Ecuador — https://rebelion.org/desterrar-la-dictadura/</description>
+      <link>https://rebelion.org/desterrar-la-dictadura/</link>
+      <guid isPermaLink="false">9ae332cb4afc8f5b</guid>
+      <pubDate>Wed, 25 Nov 2026 21:25:18 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/reb-ecuador/episodios/9ae332cb4afc8f5b.mp3" length="2413440" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Tripulantes de nueve embarcaciones demandarán al Estado por desprotección</title>
       <description>Rebelión · Ecuador — https://rebelion.org/tripulantes-de-nueve-embarcaciones-demandaran-al-estado-por-desproteccion/</description>
       <link>https://rebelion.org/tripulantes-de-nueve-embarcaciones-demandaran-al-estado-por-desproteccion/</link>
@@ -318,14 +326,6 @@
       <guid isPermaLink="false">1b07f21d668937b6</guid>
       <pubDate>Mon, 06 Jul 2026 19:06:29 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/reb-ecuador/episodios/1b07f21d668937b6.mp3" length="3621744" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Otro territorio de sacrificio</title>
-      <description>Ecuador – Rebelion — https://rebelion.org/otro-territorio-de-sacrificio/</description>
-      <link>https://rebelion.org/otro-territorio-de-sacrificio/</link>
-      <guid isPermaLink="false">16267cbb98610e50</guid>
-      <pubDate>Mon, 06 Jul 2026 19:05:51 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/reb-ecuador/episodios/16267cbb98610e50.mp3" length="5140512" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
