@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
 
     <item>
+      <title>Elecciones 2026: entre el discurso local y la realidad nacional</title>
+      <description>Rebelión · Ecuador — https://rebelion.org/elecciones-2026-entre-el-discurso-local-y-la-realidad-nacional/</description>
+      <link>https://rebelion.org/elecciones-2026-entre-el-discurso-local-y-la-realidad-nacional/</link>
+      <guid isPermaLink="false">58122157e278f2c9</guid>
+      <pubDate>Thu, 26 Nov 2026 21:11:50 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/reb-ecuador/episodios/58122157e278f2c9.mp3" length="2343744" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Desterrar la dictadura</title>
       <description>Rebelión · Ecuador — https://rebelion.org/desterrar-la-dictadura/</description>
       <link>https://rebelion.org/desterrar-la-dictadura/</link>
@@ -318,14 +326,6 @@
       <guid isPermaLink="false">0c5d3af20ddd7b23</guid>
       <pubDate>Mon, 06 Jul 2026 19:06:56 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/reb-ecuador/episodios/0c5d3af20ddd7b23.mp3" length="2972448" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>38 años no cambiaron nada</title>
-      <description>Ecuador – Rebelion — https://rebelion.org/38-anos-no-cambiaron-nada/</description>
-      <link>https://rebelion.org/38-anos-no-cambiaron-nada/</link>
-      <guid isPermaLink="false">1b07f21d668937b6</guid>
-      <pubDate>Mon, 06 Jul 2026 19:06:29 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/reb-ecuador/episodios/1b07f21d668937b6.mp3" length="3621744" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
