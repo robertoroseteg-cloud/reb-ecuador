@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
 
     <item>
+      <title>La guerra contra las drogas y la historia detrás de ella están fracasando en Ecuador</title>
+      <description>Rebelión · Ecuador — https://rebelion.org/la-guerra-contra-las-drogas-y-la-historia-detras-de-ella-estan-fracasando-en-ecuador/</description>
+      <link>https://rebelion.org/la-guerra-contra-las-drogas-y-la-historia-detras-de-ella-estan-fracasando-en-ecuador/</link>
+      <guid isPermaLink="false">e491e274b52c5ccc</guid>
+      <pubDate>Fri, 27 Nov 2026 20:56:59 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/reb-ecuador/episodios/e491e274b52c5ccc.mp3" length="5859648" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Elecciones 2026: entre el discurso local y la realidad nacional</title>
       <description>Rebelión · Ecuador — https://rebelion.org/elecciones-2026-entre-el-discurso-local-y-la-realidad-nacional/</description>
       <link>https://rebelion.org/elecciones-2026-entre-el-discurso-local-y-la-realidad-nacional/</link>
@@ -318,14 +326,6 @@
       <guid isPermaLink="false">03d5b55f673a36f0</guid>
       <pubDate>Mon, 06 Jul 2026 19:09:42 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/reb-ecuador/episodios/03d5b55f673a36f0.mp3" length="20510928" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Centenario del Partido Socialista y del Partido Comunista de Ecuador</title>
-      <description>Ecuador – Rebelion — https://rebelion.org/centenario-del-partido-socialista-y-del-partido-comunista-del-ecuador/</description>
-      <link>https://rebelion.org/centenario-del-partido-socialista-y-del-partido-comunista-del-ecuador/</link>
-      <guid isPermaLink="false">0c5d3af20ddd7b23</guid>
-      <pubDate>Mon, 06 Jul 2026 19:06:56 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/reb-ecuador/episodios/0c5d3af20ddd7b23.mp3" length="2972448" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
